@@ -1,0 +1,2 @@
+{:deps
+ {io.github.emilkloeden/time-lib {:git/tag "v0.0.1" :git/sha "4af869e"}}}
